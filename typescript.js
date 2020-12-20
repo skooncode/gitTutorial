@@ -1,2 +1,3 @@
 This is a sample text file, text is ok
-next line"Next"
+next line"Next".
+	LLC
