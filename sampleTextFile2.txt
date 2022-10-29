@@ -3,3 +3,4 @@ some new code changes updates.
 codechanges in master
 New code changes.
 bitbucket remote repo changes.
+amend update
