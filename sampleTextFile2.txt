@@ -2,4 +2,5 @@ This is a sample text file, text is ok. file updating.
 some new code changes updates.
 codechanges in master
 New code changes.
-bitbucket remote repo changes
+bitbucket remote repo changes.
+amend update
